@@ -16,7 +16,7 @@ let bool1: boolean = true;
 let null1: null = null;
 
 //undefined
-let unde1: undefined = undefined;
+// let unde1: undefined = undefined;
 
 // 임시적으로 numA에 null을 넣어둠
 //  "strictNullChecks": false, 설정해둬서 null이 가능함
